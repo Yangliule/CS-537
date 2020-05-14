@@ -2,7 +2,7 @@
 
 Contains projects related to OS:
 
-P2a: shell
+A personal shell
 
 P3: memory aceess and protection
 
