@@ -1,4 +1,4 @@
-# CS-537
+# Operationg System related projects
 
 Contains projects related to OS:
 
