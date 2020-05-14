@@ -1,4 +1,12 @@
 # CS-537
 
-smash.c: a personal shell that perform basic functions
+Contains projects related to OS:
+
+P2a: shell
+
+P3: memory aceess and protection
+
+P4: library for Mapreduce
+
+P5: filesystem checking program for XV6
 
